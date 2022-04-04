@@ -31,11 +31,11 @@ _Below are the instruction of how you can run  install and set up your app._
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/deep-69bits/GOClasses.git
    ```
 2. Enter in the folder
    ```sh
-   cd 
+   cd GOClasses
    ``` 
 3. Install NPM packages/dependencies
    ```sh
