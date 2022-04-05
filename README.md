@@ -1,6 +1,6 @@
 # GOClasses
 
-Go Classes is a much-needed one-stop solution for all your educational needs. 
+Go Classes is a much-needed one-stop solution for all your educational needs inspite of having multiple applications for individual work there was no centralized application to work on all the things a student ever needs for that we have come up with an idea of GO classes. 
 ## Description
 On one page, you get the lectures, recordings, and E-Books of all the subjects like DBMS, Web Development, C Programming, Unix, and PC. It is also connected to youtube videos of these subjects for reference.
 
@@ -31,11 +31,11 @@ _Below are the instruction of how you can run  install and set up your app._
 
 1. Clone the repo
    ```sh
-   git clone 
+   git clone https://github.com/deep-69bits/GOClasses.git
    ```
 2. Enter in the folder
    ```sh
-   cd 
+   cd GOClasses
    ``` 
 3. Install NPM packages/dependencies
    ```sh
@@ -56,6 +56,7 @@ or
 * [@deep](https://github.com/deep-69bits/)
 * [@shweta](https://github.com/shwet-aaa)
 * [@palashb](https://github.com/palashb01)
+* [@pranjal](https://github.com/pranjalad12)
 
 
 
