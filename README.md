@@ -14,6 +14,7 @@ Project also include google search api which help students to search thing while
 * [HTML](https://html.com/)
 * [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 * [Bootstrap](https://getbootstrap.com)
+* [MDbootstrap](https://mdbootstrap.com/)
 * [Javascript](https://www.javascript.com/)
 * [JQuery](https://jquery.com/)
 * [Nodejs](https://nodejs.org/en/)
@@ -54,9 +55,7 @@ or
     ```
 ## Authors  
 * [@deep](https://github.com/deep-69bits/)
-* [@shweta](https://github.com/shwet-aaa)
-* [@palashb](https://github.com/palashb01)
-* [@pranjal](https://github.com/pranjalad12)
+
 
 
 
