@@ -53,8 +53,7 @@ or
    ```sh
     node ./app.js  
     ```
-## Authors  
-* [@deep](https://github.com/deep-69bits/)
+
 
 
 
